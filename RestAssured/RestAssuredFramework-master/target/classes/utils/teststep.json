@@ -1,0 +1,17 @@
+{
+   "step":"example step",
+   "data":"example data",
+   "result":"example result",
+   "attachments":[
+      {
+         "data":"gsddfgdsfg...(base64) ",
+         "filename":"example1.txt",
+         "contentType":"plain/text"
+      },
+      {
+         "data":"gsddfgdsfg...(base64) ",
+         "filename":"example2.txt",
+         "contentType":"plain/text"
+      }
+   ]
+}
